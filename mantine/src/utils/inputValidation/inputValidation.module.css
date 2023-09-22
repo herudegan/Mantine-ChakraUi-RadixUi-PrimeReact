@@ -1,0 +1,10 @@
+.invalid {
+  background-color: var(--mantine-color-red-light);
+}
+.valid {
+  background-color: var(--mantine-color-green-light);
+}
+  
+.icon {
+  color: light-dark(var(--mantine-color-red-6), var(--mantine-color-red-7));
+}
